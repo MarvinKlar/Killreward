@@ -1,0 +1,6 @@
+main: mr.minecraft15.Killreward.Main
+name: Killreward
+version: 1.0
+authors: [Mr_Minecraft15]
+commands:
+ killreward:
